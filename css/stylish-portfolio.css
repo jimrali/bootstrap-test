@@ -224,6 +224,7 @@ hr.small {
 
 .map {
     height: 500px;
+    width: 80%;
 }
 
 @media(max-width:768px) {
