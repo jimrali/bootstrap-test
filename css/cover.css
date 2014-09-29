@@ -36,12 +36,12 @@ body {
 }
 
 /* Background image? */
-.full {
-  background: url(http://www.trullomalibran.com/media/1720/tm_trullomain.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+html {
+			background: url(images/cover-bg.jpg) no-repeat center center fixed;
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+			background-size: cover;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
